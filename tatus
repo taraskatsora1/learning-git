@@ -1,0 +1,75 @@
+[33mcommit 5593e893072e41245cdabc7c2ab21583840a82aa[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-x[m[33m)[m
+Merge: 056c4a6 c4cea5b
+Author: taras <taras.katsora.1998@gmail.com>
+Date:   Fri Apr 2 15:46:44 2021 +0300
+
+    solved conflict
+
+[33mcommit 056c4a6b7caf74fb9721996f9645f34ef886a64c[m
+Author: taras <taras.katsora.1998@gmail.com>
+Date:   Fri Apr 2 15:39:11 2021 +0300
+
+    added other text
+
+[33mcommit c4cea5b4795b4a1b3bd3204766d5a3116783fd19[m[33m ([m[1;31morigin/feature-x[m[33m)[m
+Author: taraskatsora1 <43336381+taraskatsora1@users.noreply.github.com>
+Date:   Fri Apr 2 15:37:43 2021 +0300
+
+    Update index.html
+
+[33mcommit 917a4e4c06e40d1b1fb68a0b3a2963c9fb6be2a6[m
+Author: taras <taras.katsora.1998@gmail.com>
+Date:   Fri Apr 2 15:36:26 2021 +0300
+
+    new commit html
+
+[33mcommit 1932d06c4ff7a40ebba4e8a44d38d9d9eeef2ec3[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 632896e 612aefd
+Author: taraskatsora1 <43336381+taraskatsora1@users.noreply.github.com>
+Date:   Fri Apr 2 15:12:41 2021 +0300
+
+    Merge pull request #1 from taraskatsora1/feature-a
+    
+    utils.js
+
+[33mcommit 612aefd32428d07c88561e57519b2e6a5fdf93fb[m[33m ([m[1;31morigin/feature-a[m[33m)[m
+Author: taras <taras.katsora.1998@gmail.com>
+Date:   Fri Apr 2 14:58:07 2021 +0300
+
+    utils.js
+
+[33mcommit 632896e60745f9539311f410bb831b1c1d850a9b[m
+Author: taraskatsora1 <43336381+taraskatsora1@users.noreply.github.com>
+Date:   Fri Apr 2 14:50:35 2021 +0300
+
+    added package main
+
+[33mcommit cf684f0a0d1ea1b57a5fdec6f021524dcdc675e5[m
+Author: taraskatsora1 <43336381+taraskatsora1@users.noreply.github.com>
+Date:   Fri Apr 2 14:47:33 2021 +0300
+
+    Create README.md
+
+[33mcommit b6b2fa4cfe51d309b7d670f1d159c5bc85b3bff5[m
+Author: taras <taras.katsora.1998@gmail.com>
+Date:   Fri Apr 2 14:43:54 2021 +0300
+
+    main.go
+
+[33mcommit 52a626bf617cfcd08d07ba0e0e4bb913254a5cb8[m
+Author: taras <taras.katsora.1998@gmail.com>
+Date:   Fri Apr 2 13:46:50 2021 +0300
+
+    added body in main.css
+
+[33mcommit 680a23c5d2f8f135d8d5bfa1756dd1c882c118d6[m
+Author: taras <taras.katsora.1998@gmail.com>
+Date:   Fri Apr 2 13:36:01 2021 +0300
+
+    added console.log
+
+[33mcommit ff322c2328943e449b07c6b91e6504e7a6458b89[m
+Author: taras <taras.katsora.1998@gmail.com>
+Date:   Fri Apr 2 13:25:55 2021 +0300
+
+    bootstrap project
